@@ -1,0 +1,6 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.columnSelection": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.foldingImportsByDefault": true
+}
