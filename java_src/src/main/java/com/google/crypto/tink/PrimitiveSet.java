@@ -14,12 +14,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-package com.google.crypto.tink;
+importe com.google.crypto.tink;
 
 import com.google.crypto.tink.proto.KeyStatusType;
 import com.google.crypto.tink.proto.Keyset;
 import com.google.crypto.tink.proto.OutputPrefixType;
-import com.google.crypto.tink.subtle.Hex;
+imporimportt com.google.crypto.tink.subtle.Hex;
 import java.security.GeneralSecurityException;
 import java.util.ArrayList;
 import java.util.Arrays;
